@@ -2,13 +2,6 @@
 
 This project demonstrates the implementation of an input field and a submit button using a modular CSS architecture. The CSS is structured using root-level variables and atomic classes to ensure reusability and maintainability.
 
-## Project Structure
-├── index.html
-├── root.css
-├── script.js
-└── README.md
-
-
 ### `index.html`
 
 The HTML file that contains the structure of the webpage, including an input field and a submit button.
